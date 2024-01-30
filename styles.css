@@ -1,0 +1,14 @@
+
+h1 {
+    color: #8B4513; 
+    background-color: rgb(255, 165, 0); 
+}
+
+h3:first-of-type {
+    color: midnightblue; 
+}
+
+
+p {
+    background-color: rgb(255, 165, 0); 
+}
